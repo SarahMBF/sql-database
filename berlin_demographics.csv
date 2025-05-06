@@ -1,0 +1,111 @@
+age_group,german,marital_status,number_of_citizens
+0 - 18,TRUE,Single,502684
+0 - 18,TRUE,Married,0
+0 - 18,TRUE,Widowed,0
+0 - 18,TRUE,Divorced,0
+0 - 18,TRUE,Civil partnership,0
+18 - 25,TRUE,Single,193167
+18 - 25,TRUE,Married,3170
+18 - 25,TRUE,Widowed,0
+18 - 25,TRUE,Divorced,68
+18 - 25,TRUE,Civil partnership,0
+25 - 30,TRUE,Single,152743
+25 - 30,TRUE,Married,17439
+25 - 30,TRUE,Widowed,15
+25 - 30,TRUE,Divorced,761
+25 - 30,TRUE,Civil partnership,24
+30 - 35,TRUE,Single,139934
+30 - 35,TRUE,Married,46574
+30 - 35,TRUE,Widowed,66
+30 - 35,TRUE,Divorced,3416
+30 - 35,TRUE,Civil partnership,249
+35 - 40,TRUE,Single,132967
+35 - 40,TRUE,Married,78836
+35 - 40,TRUE,Widowed,188
+35 - 40,TRUE,Divorced,8902
+35 - 40,TRUE,Civil partnership,807
+40 - 45,TRUE,Single,104534
+40 - 45,TRUE,Married,84500
+40 - 45,TRUE,Widowed,438
+40 - 45,TRUE,Divorced,14412
+40 - 45,TRUE,Civil partnership,1244
+45 - 50,TRUE,Single,76436
+45 - 50,TRUE,Married,77578
+45 - 50,TRUE,Widowed,956
+45 - 50,TRUE,Divorced,18140
+45 - 50,TRUE,Civil partnership,1433
+50 - 55,TRUE,Single,60256
+50 - 55,TRUE,Married,78717
+50 - 55,TRUE,Widowed,1766
+50 - 55,TRUE,Divorced,23709
+50 - 55,TRUE,Civil partnership,1317
+55 - 60,TRUE,Single,63967
+55 - 60,TRUE,Married,104864
+55 - 60,TRUE,Widowed,4697
+55 - 60,TRUE,Divorced,38100
+55 - 60,TRUE,Civil partnership,1680
+60 - 65,TRUE,Single,49104
+60 - 65,TRUE,Married,113716
+60 - 65,TRUE,Widowed,9250
+60 - 65,TRUE,Divorced,44543
+60 - 65,TRUE,Civil partnership,1547
+65 or older,TRUE,Single,64912
+65 or older,TRUE,Married,331545
+65 or older,TRUE,Widowed,155810
+65 or older,TRUE,Divorced,111711
+65 or older,TRUE,Civil partnership,2375
+0 - 18,FALSE,Single,131156
+0 - 18,FALSE,Married,0
+0 - 18,FALSE,Widowed,0
+0 - 18,FALSE,Divorced,0
+0 - 18,FALSE,Civil partnership,0
+18 - 25,FALSE,Single,82938
+18 - 25,FALSE,Married,5119
+18 - 25,FALSE,Widowed,3
+18 - 25,FALSE,Divorced,94
+18 - 25,FALSE,Civil partnership,0
+25 - 30,FALSE,Single,95459
+25 - 30,FALSE,Married,23978
+25 - 30,FALSE,Widowed,19
+25 - 30,FALSE,Divorced,1028
+25 - 30,FALSE,Civil partnership,32
+30 - 35,FALSE,Single,85582
+30 - 35,FALSE,Married,50848
+30 - 35,FALSE,Widowed,93
+30 - 35,FALSE,Divorced,3211
+30 - 35,FALSE,Civil partnership,198
+35 - 40,FALSE,Single,58450
+35 - 40,FALSE,Married,56076
+35 - 40,FALSE,Widowed,223
+35 - 40,FALSE,Divorced,5354
+35 - 40,FALSE,Civil partnership,390
+40 - 45,FALSE,Single,35748
+40 - 45,FALSE,Married,45545
+40 - 45,FALSE,Widowed,394
+40 - 45,FALSE,Divorced,6884
+40 - 45,FALSE,Civil partnership,472
+45 - 50,FALSE,Single,21700
+45 - 50,FALSE,Married,37895
+45 - 50,FALSE,Widowed,789
+45 - 50,FALSE,Divorced,8132
+45 - 50,FALSE,Civil partnership,363
+50 - 55,FALSE,Single,14502
+50 - 55,FALSE,Married,33538
+50 - 55,FALSE,Widowed,1228
+50 - 55,FALSE,Divorced,8927
+50 - 55,FALSE,Civil partnership,317
+55 - 60,FALSE,Single,9263
+55 - 60,FALSE,Married,27317
+55 - 60,FALSE,Widowed,1794
+55 - 60,FALSE,Divorced,8170
+55 - 60,FALSE,Civil partnership,240
+60 - 65,FALSE,Single,6352
+60 - 65,FALSE,Married,21120
+60 - 65,FALSE,Widowed,2317
+60 - 65,FALSE,Divorced,6582
+60 - 65,FALSE,Civil partnership,153
+65 or older,FALSE,Single,8162
+65 or older,FALSE,Married,38992
+65 or older,FALSE,Widowed,14425
+65 or older,FALSE,Divorced,10148
+65 or older,FALSE,Civil partnership,158
