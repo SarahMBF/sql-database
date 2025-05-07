@@ -66,12 +66,6 @@ This has implications for age-related social services like healthcare and pensio
 - What is the gender distribution within each nationality and marital status?
 - How do employment and income levels vary across these demographic groups?
 
-## Project Files
-# HIER BRAUCHE ICH DIE ECHTE LINKS NOTEBOOK UND CLEANED DATA AUS DEINER REPO
-- 📘 Notebook: [`berlin_demographics.ipynb`](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/berlin_demographics.ipynb)  
-- 📄 Cleaned Data: [`berlin_demographics_unmelted.csv`](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/berlin_demographics_unmelted.csv)  
-- 🖥️ Slides: [Google Slides Presentation](https://docs.google.com/presentation/d/1yK2kFr0HJJ8_WqTv6MX6tM49U1QwiIgM1xMhfcrwguk/edit?usp=sharing)
-
 ## Data Source
 
 - Berlin-Brandenburg Statistical Office (Published: 02/2025)
